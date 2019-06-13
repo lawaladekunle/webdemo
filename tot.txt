@@ -1,5 +1,0 @@
-<html>Hello</html>
-
-<title>Tot a Think</title>
-
-<link>www.tot.com</link>
