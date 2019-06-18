@@ -1,4 +1,4 @@
 # webdemo
 Demo Website built from python. To showcase various techniques.
 
-Changes made before Rebase.
+Changes made to the Readme file before Rebase.
