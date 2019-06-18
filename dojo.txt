@@ -1,6 +1,2 @@
 This is a test dojo file. 
 
-Making a conflict commit. Now there is a conflict. :)
-
-Conflict to Merge
-
